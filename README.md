@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri Victor Grando</h1>
 <h3 align="center">Front-end developer from Brazil</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
